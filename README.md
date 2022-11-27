@@ -1,6 +1,6 @@
 ### Hello, I'm Lina 👋 
 
-#### And I'm fall in love with Frontend Development <img width='40px' alt='linkedin' src='./assets/me.gif'>
+#### And I'm fall in love with Frontend Development <img width='100px' alt='linkedin' src='./assets/me.gif'>
 
 #### Contact with me
 

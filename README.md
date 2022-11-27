@@ -1,4 +1,6 @@
-### Hello, I'm Lina 👋 
+### Hello, I'm Lina 👋
+
+#### And I'm fall in love with Frontend Development
 
 #### Contact with me
 
@@ -10,9 +12,7 @@
 
 #### My algorithmic practice
 
-[<img aling='left' alt='codewars' src='https://www.codewars.com/users/silenciomar/badges/large?theme=light'>][codewars] [<img aling='left' alt='leetcode' src='https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsilenciomar&logo=leetcode&logoColor=yellow'>][leetcode]
-
-#### And I'm fall in love with Frontend Development <img width='200px' alt='linkedin' src='./assets/me.gif'>
+[<img aling='left' alt='codewars' src='https://www.codewars.com/users/silenciomar/badges/large?theme=light'>][codewars] [<img aling='left' alt='leetcode' src='https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsilenciomar&logo=leetcode&logoColor=yellow'>][leetcode] <img width='120px' alt='linkedin' src='./assets/me.gif'>
 
 [linkedin]:https://www.linkedin.com/in/lina-kovalenko-silenciomar/
 [mail]:mailto:galina9862@gmail.com

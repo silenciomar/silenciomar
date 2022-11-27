@@ -1,9 +1,10 @@
 ### Hello, I'm Lina 👋 
-#### And I'm fall in love with Frontend Development
+
+#### And I'm fall in love with Frontend Development <img width='40px' alt='linkedin' src='./assets/me.gif'>
 
 #### Contact with me
 
-[<img width='40px' alt='linkedin' src='https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg'>][linkedin] [<img width='40px' alt='google mail' src='https://lh3.googleusercontent.com/8v_oGMOj9bgohn50RgLhJ8XGZ2kIUdr0RG4zCkIYnfjK24ORS0WFaTWmnzxXzagUg2fwAmDy1W_Y4oTtIacT2dhQzAqOy5H9Vg23Rq1oVnhUGtOynjY'>][mail]
+[<img width='40px' alt='linkedin' src='https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg'>][linkedin] [<img width='40px' alt='google mail' src='https://lh3.googleusercontent.com/8v_oGMOj9bgohn50RgLhJ8XGZ2kIUdr0RG4zCkIYnfjK24ORS0WFaTWmnzxXzagUg2fwAmDy1W_Y4oTtIacT2dhQzAqOy5H9Vg23Rq1oVnhUGtOynjY'>][mail] [<img width='40px' alt='google mail' src='https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg'>][discord]
 
 #### My stack
 
@@ -15,5 +16,6 @@
 
 [linkedin]:https://www.linkedin.com/in/lina-kovalenko-silenciomar/
 [mail]:mailto:galina9862@gmail.com
+[discord]:https://discordapp.com/users/689506453039743136
 [leetcode]: https://leetcode.com/silenciomar/
 [codewars]: https://www.codewars.com/users/silenciomar
